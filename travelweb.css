@@ -94,7 +94,7 @@ ul li.item a:hover {
 
 
 .main-content {
-    flex-grow: 1; /* This makes sure the content grows and takes available space */
+    flex-grow: 1; 
 }
 
 body {
